@@ -1,2 +1,2 @@
 # theoreme_de_Wigner
-Projet scolaire en autonomie pour expliquer et illustrer le théorème de Wigner.
+Ce projet scolaire en autonomie vise à expliquer le théorème de Wigner, et en propose une jolie application en bio-physique.
