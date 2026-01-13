@@ -8,9 +8,10 @@ __pycache__/
 venv/
 env/
 .env
+.venv/
 
 # Notebooks
-.ipynb_checkpoints
+.3
 
 # IDE
 .vscode/
