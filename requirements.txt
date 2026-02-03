@@ -3,3 +3,6 @@ scipy>=1.10.0
 matplotlib>=3.7.0
 tqdm>=4.65.0
 jupyterlab>=4.0.0
+
+#pour calculer la figure 6 plus vite : vous pouvez l'enlever
+joblib>=1.4.0
